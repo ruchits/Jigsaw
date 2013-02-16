@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">myView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">JigSaw</string>
+    <string name="Play">Play</string>
+    <string name="Options">Options</string>
+    <string name="Exit">Exit</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="meh">Meh..</string>
+    <string name="notbad">Not bad</string>
+    <string name="boss">Boss</string>
+
+</resources>
